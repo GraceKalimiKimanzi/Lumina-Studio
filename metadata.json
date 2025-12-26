@@ -1,0 +1,8 @@
+{
+  "name": "Lumina AI - Premium Talking Head Studio",
+  "description": "An elite AI video generation platform that transforms static portraits into cinematic, realistic talking-head videos with natural expressions and fluid motion.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
